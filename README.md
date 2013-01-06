@@ -1,4 +1,0 @@
-vdr-extrecmenu
-==============
-
-vdr-extrecmenu
